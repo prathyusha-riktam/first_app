@@ -1,1 +1,2 @@
 my file1 word1
+word3
