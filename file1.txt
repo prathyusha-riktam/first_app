@@ -4,9 +4,7 @@ word2
 
 word3
 word5
-<<<<<<< HEAD
 word6
 word7
-=======
 remote repo
->>>>>>> 08a52e17659cecb8d38f30381ed4d643d574a5ce
+my repoooo
