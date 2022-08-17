@@ -8,9 +8,6 @@ word6
 word7
 remote repo
 my repoooo
-<<<<<<< HEAD
 local change
-=======
 remote change
 2
->>>>>>> a2ef86fb3eac63299b64ac7c14f2c49b0cbbb5b5
